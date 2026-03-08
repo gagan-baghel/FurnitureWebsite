@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Host: https://priyainteriors.com
+Sitemap: https://priyainteriors.com/sitemap.xml
